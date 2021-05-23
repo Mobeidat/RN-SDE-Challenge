@@ -13,7 +13,7 @@ For this project, we would require you to use React Native CLI.
 
 2. Every Coding Challenge should be one open Merge Request. At the end of finishing this project you will have one open Merge Request per Coding Challenge. If your code depends on other Merge Request you will point the merge request to the dependant branch instead of `master`.
 
-3. Then after finishing all challenges you need to share the link with moath.alobaidat@maf.ae and laith.younes@maf.ae
+3. Then after finishing all challenges you need to share the link with moathalobeidat@gmail.com
 
 
 ### Challenges
@@ -44,4 +44,4 @@ On the design you will find a menu button (three dots) on the menu, when you cli
 
 ### Delivery of the project
 
-After you finish your project, please share the outcomes and the github repository of the project with moath.alobaidat@maf.ae and laith.younes@maf.ae
+After you finish your project, please share the outcomes and the github repository of the project with moathalobeidat@gmail.com
